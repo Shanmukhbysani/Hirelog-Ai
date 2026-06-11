@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Live Applicatio
+## 🚀 Live Application
 
 Frontend Deployment:  
 https://hirelogapp.vercel.app/
